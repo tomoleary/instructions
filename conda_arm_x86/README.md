@@ -18,7 +18,7 @@ softwareupdate --install-rosetta
 
 3. Click on "Edit Profiles". My goal is to have the x86 be the default profile, so I rename the default profile to "x86". In the settings for the default profile, there is a space to enter a command that is executed when the profile launches. In this space enter `arch -x86_64 bash`.
 
-4. Create another profile for "arm". Since arm is the default architecture there is no need to enter a command in the settings for this profile. Customize the  different color scheme for this profile in order to visually distinguish this from the "x86" profile. 
+4. Create another profile for "arm". In the command option enter `arch -arm64 bash`. Customize the  different color scheme for this profile in order to visually distinguish this from the "x86" profile. 
 
 
 ## Installing the different condas
