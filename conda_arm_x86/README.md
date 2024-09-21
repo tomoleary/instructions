@@ -122,6 +122,10 @@ fi
 ```
 
 
+## Using `conda`.
+
+The conda that is loaded should be based on the architecture tied to your shell profile. So booting up a new session in either profile should load the correct corresponding `conda`. This can be verified with `which conda`.
+
 
 
 
