@@ -1,6 +1,6 @@
 # Instructions for toggling between `x86` and `arm` `conda` on OSX with ARM chip using `bash` in iTerm2.
 
-Adapted from (this page, which is for `zsh` using Terminal)[https://teamdynamix.umich.edu/TDClient/47/LSAPortal/KB/ArticleDet?ID=10245]. 
+Adapted from [this page, which is for `zsh` using Terminal](https://teamdynamix.umich.edu/TDClient/47/LSAPortal/KB/ArticleDet?ID=10245). 
 
 This is for those that don't want to use `zsh` or OSX native Terminal. There are not many things that need to be changed from the above linked tutorial.
 
